@@ -11,6 +11,16 @@ export const projects = [
     icon: "book",
   },
   {
+    name: "Telegram Bot",
+    description: "A general-purpose Telegram bot foundation for commands and simple automations.",
+    repoUrl: "https://github.com/Hamster-coder123/telegram-bot",
+    category: "Telegram Bots",
+    tech: ["Python", "Telegram API"],
+    status: "Active",
+    featured: true,
+    icon: "bot",
+  },
+  {
     name: "Snake Game",
     description: "A classic Snake game focused on simple controls, scoring, and replayability.",
     repoUrl: "https://github.com/Hamster-coder123/Snake-Game",
@@ -44,6 +54,7 @@ export const projects = [
 
 export const categories = [
   "All",
+  "Telegram Bots",
   "Websites",
   "Games",
   "AI Tools",
