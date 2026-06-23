@@ -3,7 +3,11 @@ export default function Hero() {
     <section className="hero" id="top">
       <div className="hero-copy">
         <p className="eyebrow">Built with Codex</p>
-        <h1>Codex Projects Hub</h1>
+        <h1 className="hero-title">
+          <span>Codex</span>
+          <span>Projects</span>
+          <span>Hub</span>
+        </h1>
       </div>
     </section>
   );
