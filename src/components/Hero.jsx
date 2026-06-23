@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="hero" id="top">
       <div className="hero-copy">
         <p className="eyebrow">Built with Codex</p>
-        <h1 className="hero-title">
+        <h1 className="hero-title title-stack">
           <span>Codex</span>
           <span>Projects</span>
           <span>Hub</span>
