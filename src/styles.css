@@ -39,21 +39,6 @@ body {
   min-height: 100vh;
 }
 
-.page-shell {
-  transition: opacity 320ms ease, transform 320ms ease;
-}
-
-.page-shell-hidden {
-  opacity: 0;
-  transform: translateY(10px);
-  pointer-events: none;
-}
-
-.page-shell-ready {
-  opacity: 1;
-  transform: translateY(0);
-}
-
 a {
   color: inherit;
   text-decoration: none;

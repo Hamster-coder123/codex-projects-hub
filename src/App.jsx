@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       {showIntro ? <LoadingIntro /> : null}
-      <div className={`page-shell ${showIntro ? "page-shell-hidden" : "page-shell-ready"}`}>
+      <div className="page-shell">
         <Header />
         <main>
           <Hero />
