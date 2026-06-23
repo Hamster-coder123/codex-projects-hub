@@ -5,7 +5,7 @@ export default function ProjectGrid({ projects }) {
     return (
       <div className="empty-state">
         <h3>No projects found</h3>
-        <p>Try changing the search term, category, or status filter.</p>
+        <p>No Codex project entries are available yet.</p>
       </div>
     );
   }

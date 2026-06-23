@@ -1,6 +1,6 @@
 # Codex Projects Hub
 
-A modern, searchable portfolio site for projects built with Codex.
+A modern portfolio site for projects built with Codex.
 
 Live site:
 
