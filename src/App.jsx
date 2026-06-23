@@ -11,7 +11,7 @@ function App() {
   useEffect(() => {
     const timer = window.setTimeout(() => {
       setShowIntro(false);
-    }, 2600);
+    }, 2900);
 
     return () => window.clearTimeout(timer);
   }, []);
